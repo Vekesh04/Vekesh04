@@ -1,6 +1,6 @@
 <div align="center">
 
-![AI Engineer and Python Developer](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1200&color=67E8F9&background=0B1120&center=true&vCenter=true&width=900&height=115&lines=VEKESH+MAKANI;AI+Engineer+%7C+Python+Developer;Building+ideas+into+intelligent+software)
+![Vekesh Makani — AI Engineer and Python Developer](showcase.gif)
 
 # Vekesh Makani
 ### AI Engineer & Python Developer
@@ -35,7 +35,7 @@ I'm an **AI Engineer and Python Developer** who enjoys turning ideas into useful
 | **[Diabetic Nephropathy Prediction](https://github.com/Vekesh04/Diabetic_Nephropathy)** | Explore predictive models and healthcare feature analysis | Python · Machine learning |
 | **[Bank Management System](https://github.com/Vekesh04/Bank-Management-System-Java)** | Manage accounts, deposits, withdrawals, and balance checks | Java · OOP |
 
-More project information is available in my [portfolio](https://vekeshportfolio.lovable.app/#projects). Documentation is published for the newly added projects; their cleaned source uploads are in progress.
+More project information is available in my [portfolio](https://vekeshportfolio.lovable.app/#projects). Full source code, setup instructions, and architecture diagrams are available in the linked repositories.
 
 ## 03 / Technical toolkit
 
