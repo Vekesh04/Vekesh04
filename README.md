@@ -31,7 +31,7 @@ I'm an **AI Engineer and Python Developer** who enjoys turning ideas into useful
 | **[SunoSeva — Multilingual Voice Assistant](https://github.com/Vekesh04/SunoSeva)** | Help people with limited literacy access digital guidance through regional-language speech | Android · Java · Speech recognition · TTS · Firebase |
 | **[JARVIS AI Assistant](https://github.com/Vekesh04/jarvis-ai-assistant)** | A desktop assistant for voice/text interaction, app launching, web search, and LLM responses | Python · PyQt6 · OpenAI · Automation |
 | **[Food Inventory & Restaurant Operations](https://github.com/Vekesh04/food-inventory-app)** | Bring menus, ordering, ingredient management, inventory, and reporting into one interface | React · TypeScript · Vite · Tailwind CSS |
-| **Insurance AI Python Project** | Recently completed project; source upload and technical overview pending | Python · AI |
+| **[Insurance Claims & Policy Intelligence](https://github.com/Vekesh04/insurance-genai-assistant)** | Combine structured claims lookups with evidence from policy documents | Python · LangGraph · Hybrid RAG · SQLite · FastAPI · Streamlit |
 | **[Diabetic Nephropathy Prediction](https://github.com/Vekesh04/Diabetic_Nephropathy)** | Explore predictive models and healthcare feature analysis | Python · Machine learning |
 | **[Bank Management System](https://github.com/Vekesh04/Bank-Management-System-Java)** | Manage accounts, deposits, withdrawals, and balance checks | Java · OOP |
 
