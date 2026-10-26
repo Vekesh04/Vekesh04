@@ -1,6 +1,13 @@
 <div align="center">
 
-![Vekesh Makani — AI Engineer and Python Developer](showcase.gif)
+<h3><code>vekesh@github ~ $ ./contributions.sh</code></h3>
+<img src="./contrib-heatmap.svg" width="860" alt="Vekesh's live public contribution calendar" />
+<br><br>
+<h3><code>vekesh@github ~ $ whoami</code></h3>
+<table><tr>
+<td valign="top"><img src="./avi-ascii.svg" width="370" alt="Animated ASCII portrait of Vekesh Makani" /></td>
+<td valign="top"><img src="./info-card.svg" width="490" alt="Vekesh's developer stack and focus" /></td>
+</tr></table>
 
 # Vekesh Makani
 ### AI Engineer & Python Developer
@@ -77,3 +84,4 @@ Diabetic nephropathy prediction, model evaluation, and feature analysis.
 [Explore my work](https://vekeshportfolio.lovable.app/) · [Connect on LinkedIn](https://linkedin.com/in/vekesh-m)
 
 </div>
+
