@@ -1,62 +1,79 @@
 <div align="center">
 
-# Hi, I'm Vekesh Makani 👋
-### AI/ML Engineer · Python Developer
+![AI Engineer and Python Developer](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1200&color=67E8F9&background=0B1120&center=true&vCenter=true&width=900&height=115&lines=VEKESH+MAKANI;AI+Engineer+%7C+Python+Developer;Building+ideas+into+intelligent+software)
 
-**Building practical AI for healthcare, forecasting, and everyday automation.**
+# Vekesh Makani
+### AI Engineer & Python Developer
 
-[Portfolio](https://vekeshportfolio.lovable.app/) · [LinkedIn](https://linkedin.com/in/vekesh-m) · [Resume](https://vekeshportfolio.lovable.app/#resume)
+**Intelligent applications. Useful automation. Software across domains.**
+
+[![Portfolio](https://img.shields.io/badge/EXPLORE_MY_PORTFOLIO-0B1120?style=for-the-badge&logo=googlechrome&logoColor=67E8F9)](https://vekeshportfolio.lovable.app/)
+[![LinkedIn](https://img.shields.io/badge/LET'S_CONNECT-0B1120?style=for-the-badge&logo=linkedin&logoColor=A78BFA)](https://linkedin.com/in/vekesh-m)
+[![Resume](https://img.shields.io/badge/VIEW_RESUME-0B1120?style=for-the-badge&logo=readthedocs&logoColor=34D399)](https://vekeshportfolio.lovable.app/#resume)
 
 </div>
 
 ---
 
-## About me
+## 01 / About me
 
-I work with Python, machine learning, and LLM applications to turn ideas into useful software. My experience includes AI-powered inventory forecasting at **Ciolake Pvt. Ltd**, multilingual voice-assistant development, and healthcare prediction research at **The Apollo University**.
+I'm an **AI Engineer and Python Developer** who enjoys turning ideas into useful applications. I work across machine learning, generative AI, backend development, voice interfaces, and automation. My project experience spans multiple domains, and I'm interested in solving new problems wherever software and AI can help.
 
-- 🎓 **B.Tech in Artificial Intelligence & Data Science**, The Apollo University (2022–2026) · **CGPA: 8.7**
-- 🧠 Interests: applied machine learning, NLP, generative AI, and AI workflow automation
-- 🛠️ I enjoy connecting predictive models with accessible applications and APIs
-- 🤝 Open to AI/ML and Python development opportunities and project collaborations
+- **Education:** B.Tech in Artificial Intelligence & Data Science, The Apollo University (2022–2026) · CGPA **8.7**
+- **Experience:** AI & Python development at Ciolake Pvt. Ltd, voice-assistant development, and machine-learning research at The Apollo University
+- **Focus:** Build practical applications, connect models with usable interfaces, and keep improving through hands-on projects
+- **Opportunities:** Open to AI engineering, Python development, and collaborative software projects
 
-## Featured repositories
+## 02 / Project showcase
 
-| Project | What it explores | Repository |
+| Project | The idea | Stack / focus |
 | :--- | :--- | :--- |
-| **Food Inventory Risk Forecasting** | Inventory planning and forecasting workflows for restaurant operations | [Explore project →](https://github.com/Vekesh04/food-inventory-app) |
-| **Diabetic Nephropathy Prediction** | Machine learning for healthcare prediction and analysis of influential factors | [Explore project →](https://github.com/Vekesh04/Diabetic_Nephropathy) |
-| **Bank Management System** | Java-based account management, deposits, withdrawals, and balance checking | [Explore project →](https://github.com/Vekesh04/Bank-Management-System-Java) |
+| **SunoSeva — Multilingual Voice Assistant** | Help people with limited literacy access digital guidance through regional-language speech | Android · Java · Speech recognition · TTS · Firebase |
+| **JARVIS AI Assistant** | A desktop assistant for voice/text interaction, app launching, web search, and LLM responses | Python · PyQt6 · OpenAI · Automation |
+| **[Food Inventory & Restaurant Operations](https://github.com/Vekesh04/food-inventory-app)** | Bring menus, ordering, ingredient management, inventory, and reporting into one interface | React · TypeScript · Vite · Tailwind CSS |
+| **Insurance AI Python Project** | Recently completed project; source upload and technical overview pending | Python · AI |
+| **[Diabetic Nephropathy Prediction](https://github.com/Vekesh04/Diabetic_Nephropathy)** | Explore predictive models and healthcare feature analysis | Python · Machine learning |
+| **[Bank Management System](https://github.com/Vekesh04/Bank-Management-System-Java)** | Manage accounts, deposits, withdrawals, and balance checks | Java · OOP |
 
-### More work
+More project information is available in my [portfolio](https://vekeshportfolio.lovable.app/#projects). Repository links for newly prepared projects will be added as their source is published.
 
-My [portfolio](https://vekeshportfolio.lovable.app/#projects) also presents **JARVIS AI Assistant**, a **Multilingual AI Voice Assistant**, and a **Placement Portal for College Students**.
+## 03 / Technical toolkit
 
-## Technical toolkit
+![Python](https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=67E8F9)
+![Java](https://img.shields.io/badge/Java-111827?style=flat-square&logo=openjdk&logoColor=FBBF24)
+![PyTorch](https://img.shields.io/badge/PyTorch-111827?style=flat-square&logo=pytorch&logoColor=FB7185)
+![React](https://img.shields.io/badge/React-111827?style=flat-square&logo=react&logoColor=67E8F9)
+![Android](https://img.shields.io/badge/Android-111827?style=flat-square&logo=android&logoColor=34D399)
+![FastAPI](https://img.shields.io/badge/FastAPI-111827?style=flat-square&logo=fastapi&logoColor=34D399)
 
 | Area | Technologies |
 | :--- | :--- |
-| **Languages** | Python · Java |
-| **AI & machine learning** | PyTorch · Transformers · Scikit-learn · NLP · Computer Vision |
+| **AI & ML** | PyTorch · Transformers · Scikit-learn · NLP · Computer Vision |
 | **LLM applications** | LangChain · Prompt Engineering · AI Workflow Automation |
-| **Data & visualization** | Pandas · NumPy · Matplotlib |
-| **Backend & databases** | FastAPI · Flask · REST APIs · Firebase · MySQL |
-| **Cloud & development tools** | Docker · Kubernetes · AWS · Git & GitHub |
+| **Data & analytics** | Pandas · NumPy · Matplotlib |
+| **Backend & databases** | Python · FastAPI · Flask · REST APIs · Firebase · MySQL |
+| **Web & mobile projects** | React · TypeScript · Tailwind CSS · Android · Java |
+| **Development & cloud** | Git · GitHub · Docker · Kubernetes · AWS |
 
-## Experience & learning
+## 04 / Experience & learning
 
-- **AI & Python Developer Intern — Ciolake Pvt. Ltd:** food inventory applications, forecasting, and AI proof-of-concept workflows.
-- **AI/ML Engineer Intern:** multilingual voice interactions and automated task guidance.
-- **Machine Learning Intern — The Apollo University:** diabetic nephropathy prediction and model evaluation.
+**Ciolake Pvt. Ltd — AI & Python Developer Intern**  
+Application development, inventory-related workflows, and AI proof-of-concept work.
 
-**Certifications:** Google Cloud Engineering (Google Cloud Skill Boost) · Acquiring Data (Accenture) · Data Processing and Visualization (Accenture) · Data Science for Engineers (NPTEL, 81%).
+**AI/ML Engineer Intern**  
+Multilingual voice interaction and automated task guidance.
+
+**The Apollo University — Machine Learning Intern**  
+Diabetic nephropathy prediction, model evaluation, and feature analysis.
+
+**Learning & certifications:** Google Cloud Engineering (Google Cloud Skill Boost) · Acquiring Data (Accenture) · Data Processing and Visualization (Accenture) · Data Science for Engineers (NPTEL, 81%).
 
 ---
 
 <div align="center">
 
-**Let's build something useful.**
+### Have a problem worth solving? Let's build.
 
-Explore my [projects](https://vekeshportfolio.lovable.app/#projects), view my [resume](https://vekeshportfolio.lovable.app/#resume), or connect on [LinkedIn](https://linkedin.com/in/vekesh-m).
+[Explore my work](https://vekeshportfolio.lovable.app/) · [Connect on LinkedIn](https://linkedin.com/in/vekesh-m)
 
 </div>
